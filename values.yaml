@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: quay.io/jefrankl/getting-started
+  repository: quay.io/jefrankl/simple-vue-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
